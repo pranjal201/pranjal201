@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pranjal201
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in CyberSecurity and Networking
+- 🌱 I’m currently learning Python,networking,C
 - 💞️ I’m looking to collaborate on various cybersecurity projects
-- 📫 How to reach me pranjalparmar2001@gmail.com
+- 📫 How to reach me 'pranjalparmar2001@gmail.com'
 
 <!---
 pranjal201/pranjal201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
