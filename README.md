@@ -1,3 +1,4 @@
+<img src = 'tech.png'></img>
 - 👋 Hi, I’m @pranjal201
 - 👀 I’m interested in CyberSecurity and Networking
 - 🌱 I’m currently learning Python,networking,C
