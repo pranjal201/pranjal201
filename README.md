@@ -2,9 +2,9 @@
 <b>
 - 👋 Hi, I’m @pranjal201
 - 👀 I’m interested in CyberSecurity and Networking
-- 🌱 I’m currently learning Python,networking,C
-- 💞️ I’m looking to collaborate on various cybersecurity projects
-- 📫 How to reach me 'pranjalparmar2001@gmail.com'
+- 🌱 I’m currently learning Python,networking.
+- 💞️ I’m looking to collaborate on various cybersecurity and web-dev projects.
+- 📫 How to reach me 'pranjalparmar23gmail.com'
 </b>
 <!---
 pranjal201/pranjal201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
